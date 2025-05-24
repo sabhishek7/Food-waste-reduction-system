@@ -23,4 +23,5 @@ A Java Spring Boot web application to connect food donors and receivers in real-
 ## 📷 Screenshots
 
 ### 1. Home Page
-![Home](Screenshot 2025-05-24 175450.png)
+### 1. Home Page
+![Home](images/Screenshot 2025-05-24 175450.png)
