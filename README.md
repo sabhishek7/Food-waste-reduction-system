@@ -19,3 +19,8 @@ A Java Spring Boot web application to connect food donors and receivers in real-
 1. Clone the repository
 2. Run MySQL server and configure `application.properties`
 3. Use `mvn spring-boot:run` to start the backend
+
+## 📷 Screenshots
+
+### 1. Home Page
+![Home](Screenshot 2025-05-24 175450.png)
